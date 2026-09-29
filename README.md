@@ -181,7 +181,7 @@ python -m streamlit run frontend/app.py
 
 ### Expense Reimbursement Query
 
-screenshots/expense-reimbursement.png
+(screenshots/expense-reimbursement.png)
 
 ### Conversational Chat History
 

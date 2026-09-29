@@ -175,17 +175,17 @@ python -m streamlit run frontend/app.py
 
 ![Home Page](screenshots/homepage.png)
 
- Retrieval
+### vpn
 
-![VPNnshots/vpn-answer.png
+![VPN](screenshots/vpn-answer.png)
 
 ### Expense Reimbursement Query
 
-(screenshots/expense-reimbursement.png)
+![Expense](screenshots/expense-reimbursement.png)
 
 ### Conversational Chat History
 
-screenshots/chat-history.png
+![History](screenshots/chat-history.png)
 
 ---
 

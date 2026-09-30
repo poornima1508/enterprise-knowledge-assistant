@@ -198,9 +198,3 @@ python -m streamlit run frontend/app.py
 - Hybrid search (BM25 + Vector Search)
 - Reranking models
 - Evaluation framework for retrieval accuracy
-
----
-
-## Resume Summary
-
-Built a Retrieval-Augmented Generation (RAG) chatbot leveraging FAISS vector search, Sentence Transformers, Ollama-hosted Qwen2, and Streamlit to deliver document-grounded enterprise knowledge retrieval with source-cited responses.
